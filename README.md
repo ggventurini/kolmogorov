@@ -34,13 +34,13 @@ Available options are:
 
 Available commands in curses mode:
 
- up/down arrows (or j-k), page-up/page-down, home/end move the cursor.
- <space>/<enter>	play song under cursor.
- +	add selected song to playing queue.
- -	remove selected song from playing queue.
- S	show playing song.
- s	case-insensitive sort of playlist.
- c	enable or disable continuos play mode.
- T	switch between tag information and filename.
- r	refresh screen.
- q	quit.
+	up/down arrows (or j-k), page-up/page-down, home/end move the cursor.
+	<space>/<enter>	play song under cursor.
+	+	add selected song to playing queue.
+	-	remove selected song from playing queue.
+	S	show playing song.
+	s	case-insensitive sort of playlist.
+	c	enable or disable continuos play mode.
+	T	switch between tag information and filename.
+	r	refresh screen.
+	q	quit.
