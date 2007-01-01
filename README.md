@@ -3,6 +3,8 @@ a (very) lightweight iTunes clone for *UNIX
 
 *This is a program I wrote in 2007 for the heck of it*
 
+![kolmogorov screenshot](kolmogorov_screenshot.png)
+
 Written by G. G. Venturini, (c) 2007
 
 Released under GPL v3. See: http://www.gnu.org/copyleft/gpl.html
